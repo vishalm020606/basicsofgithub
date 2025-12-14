@@ -1,0 +1,2 @@
+website name : javascript.info
+finished till datatypes
